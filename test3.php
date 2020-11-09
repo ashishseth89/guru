@@ -7,3 +7,4 @@ echo "eee";
 ?>
 ashish guru
 ashish fetch command
+ashish fetch 3
