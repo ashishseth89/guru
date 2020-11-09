@@ -6,3 +6,4 @@ die("test");
 echo "eee";
 ?>
 ashish guru
+ashish fetch command
