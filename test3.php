@@ -5,3 +5,4 @@ echo "ashish";
 die("test");
 echo "eee";
 ?>
+ashish fetch command
