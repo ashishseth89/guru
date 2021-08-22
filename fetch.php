@@ -1,7 +1,12 @@
 
 ashish 
 guru
-<?php 
-echo 'ass';
+ashish
+ashish //guru
+echo 'maharaja';
+echo 'ass'; //ramja
+har;
+echo 'guppp';
 echo 'ashsih';
-?>
+echo 'tt';
+?>  
