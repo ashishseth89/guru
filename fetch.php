@@ -11,9 +11,8 @@ echo 'ashsih';
 echo 'tt';
 ?>  
 <?php 
-ashish
 echo 'ass';
-gupta 
+
 echo 'ashsih';
 gupta;
 ?>
